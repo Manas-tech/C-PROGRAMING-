@@ -1,0 +1,1 @@
+int primenumber(int a){
