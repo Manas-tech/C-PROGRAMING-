@@ -2,7 +2,7 @@
 int main(){
     int a;
     printf("ENTER THE NUMBER");
-    scanf("%d",&a);
+    scanf("%d ",&a);
     if(a>1 && a%10==0 )
     {
         printf("POSITIVE AND DIVISIBLE BY 10");
