@@ -16,7 +16,7 @@ scanf("%d",&s);
 //-------------------ENTER THE VALUES----------------------------
     for (int i = 0; i < s; i++)
     {
-    printf("\nEnter the Id of Student %d : ",i+1);scanf("%d",&stdu[i].Id);
+    printf("\nEnter the Id of  Student %d : ",i+1);scanf("%d",&stdu[i].Id);
     printf("Enter the name of Student %d : ",i+1);scanf("%s",&stdu[i].sname);
     printf("Enter the rollno of Student %d : ",i+1);scanf("%d",&stdu[i].srollno);    
     printf("Enter the Mobile number of Student %d : ",i+1);scanf("%s",&stdu[i].mobileno);    
