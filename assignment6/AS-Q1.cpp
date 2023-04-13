@@ -21,7 +21,7 @@ void square(){
 	scanf("%d ",&l);
 	Rarea= l*l;
 	Rperi= 4*l;
-	printf("Raera =%d and Rperi = %d\n",Rarea,Rperi);
+	printf("Raera =%d and  Rperi = %d\n",Rarea,Rperi);
 }
 void circle(){
 	int l,Rarea,Rperi;
