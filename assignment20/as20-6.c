@@ -10,7 +10,7 @@ int main()
 
     sd b1, b2, b3, b4, b5;
 
-    printf("Enter the Id of Student 1 : ");    scanf("%d", &b1.Id);
+    printf("Enter the Id of  Student 1 : ");    scanf("%d", &b1.Id);
     printf("Enter the Name of Student 1 : ");    scanf("%s", &b1.name);
     printf("Enter the Physics marks of Student 1 : ");   scanf("%d", &b1.Physics_marks);
     printf("Enter the Chemistry marks of Student 1 : ");    scanf("%d", &b1.Chemistry_marks);
